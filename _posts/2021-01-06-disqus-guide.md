@@ -1,13 +1,14 @@
 ---
 categories: learning
 layout: post
+toc: true
 ---
 
-# Disqus
+## Disqus
 Disqus is a networked community platform used by hundreds of thousands of sites all over the web. 
 
 
-# Setup
+## Setup
 - Register an account at [Disqus](https://disqus.com/)
 - Create a site
 - Install and config [variables](https://help.disqus.com/en/articles/1717084-javascript-configuration-variables)
