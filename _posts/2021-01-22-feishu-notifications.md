@@ -1,5 +1,5 @@
 ---
-title: 飞书小程序入门
+title: 飞书消息推送
 date: 2021-01-22 16:23:00 +0800
 categories:
 - learning
